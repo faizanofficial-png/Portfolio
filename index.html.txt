@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Muhammad Faizan - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Muhammad Faizan</h1>
+    <p>Web Developer | HTML | CSS | JavaScript</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hi! I'm Muhammad Faizan, a passionate web developer with skills in HTML, CSS, and JavaScript. I love creating clean, responsive websites and am always learning new technologies.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <h3>Portfolio Website</h3>
+        <p>This website showcases my skills and projects as a developer.</p>
+      </li>
+      <!-- Add more projects here later -->
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: yourname@example.com</p>
+    <p>GitHub: <a href="https://github.com/faizanofficial-png" target="_blank">faizanofficial-png</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Muhammad Faizan</p>
+  </footer>
+</body>
+</html>
